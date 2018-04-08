@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dinero1</string>
+    <string name="title_activity_forget_pin">ForgetPin</string>
+    <string name="title_activity_resest">ResestActivity</string>
+    <string name="title_activity_reset">Reset</string>
+    <string name="title_activity_main_options">MainOptions</string>
+    <string name="title_activity_add_cash">AddCash</string>
+    <string name="title_activity_crypto_currency">CryptoCurrency</string>
+    <string name="title_activity_distribution">Distribution</string>
+    <string name="title_activity_graph_view">GraphView</string>
+    <string name="title_activity_view">View</string>
+    <string name="title_activity_view_details">ViewDetails</string>
+    <string name="title_activity_loan">Loan</string>
+</resources>
